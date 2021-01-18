@@ -1,0 +1,50 @@
+@import '@/styles/variables.scss';
+
+#cabecalho {
+    //background: url('~@/assets/imagemBanner.jpg');
+    //background-color: $background-lightblue;
+    color: white;
+    padding-left: 70px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: 5px solid $laranja;
+    position: relative;
+
+    &--fundo {
+        position: absolute;
+        left: 0;
+        top: 0;
+        height: 100%;
+        width: 100%;
+        z-index: -1;
+    }
+
+    &--top {
+        display: flex;
+        align-items: center;
+    }
+
+    &--logo {
+        border-right: 1px solid white;
+        padding-right: 15px;
+    }
+
+    &--titulo {
+        margin-left: 30px;
+    }
+
+    &--descricao {
+        margin-bottom: 16px;
+    }
+    &--preco {
+        font-size: xx-large;
+        #cifrao {font-size: large;}
+    }
+    &--saibaMais {
+    font-size: large;
+    margin-left: 30px;
+    background-image: $fundo-laranja-gradiente;
+    border-radius: 5px;
+    padding: 10px;
+    }
+}
