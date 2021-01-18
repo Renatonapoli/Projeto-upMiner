@@ -6,7 +6,7 @@ Tabela de conteúdos
 <!--ts-->
    * [Sobre](#Descricao-do-Projeto)
    * [Tabela de Conteúdo](#Tabela-de-conteudo)
-   * [Pré-requisitos](#Pre-requisitos)
+   * [Pré-requisitos](#Prerequisitos)
    * [Rodando o Back End (Servidor)](#Rodando-o-Back-End-(Servidor))
    * [Caracteristicas](#Features)
    * [Tecnologias](#Tecnologias)
