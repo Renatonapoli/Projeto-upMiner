@@ -5,12 +5,11 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre](#Descricao-do-Projeto)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Pré requisitos](#Pre-requisitos)
-   * [Instalação](#instalacao)
-   * [Rodando o Back End (Servidor)](#Rodando-o-Back-End-Servidor)
+   * [Tabela de Conteúdo](#Tabela-de-conteudo)
+   * [Pré-requisitos](#Pre-requisitos)
+   * [Rodando o Back End (Servidor)](#Rodando-o-Back-End-(Servidor))
    * [Caracteristicas](#Features)
-   * [Tecnologias](#tecnologias)
+   * [Tecnologias](#Tecnologias)
 <!--te-->
 
 ## Descrição do Projeto
